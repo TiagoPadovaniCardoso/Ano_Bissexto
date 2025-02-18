@@ -1,6 +1,6 @@
 # Aprendizados com o Script em Batch
 
-Este script em Batch foi uma ótima oportunidade para aprender e praticar conceitos importantes de programação, lógica e manipulação de arquivos. Abaixo, destaco os principais pontos que pude absorver:
+Este script em Batch foi uma ótima oportunidade para aprender e praticar conceitos importantes de programação, lógica e manipulação de arquivos.
 
 ---
 
@@ -53,4 +53,4 @@ Esse script me mostrou como a programação em Batch pode ser poderosa para auto
 
 ---
 
-**Conclusão:** Esse projeto foi uma experiência enriquecedora, e estou animado para aplicar esses conhecimentos em outros desafios! 🎉
+**Conclusão:** O Projeto foi muito utíl para aprimorar minhas habilidades em .batch
